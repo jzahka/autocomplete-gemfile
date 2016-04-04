@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-gemfile",
   "main": "./lib/autocomplete-gemfile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/jzahka/autocomplete-gemfile",
