@@ -18,8 +18,6 @@
   },
   "dependencies": {
     "node-fetch": "~>1.4.1",
-    "nodegit": "~>0.11.9",
-    "fs-plus": "~>2.8.1",
-    "font-awesome": "~>4.5.0"
+    "fs-plus": "~>2.8.1"
   }
 }
