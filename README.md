@@ -1,5 +1,5 @@
 # autocomplete-gemfile package
 
-A short description of your package.
+Autocomplete for ruby Gemfiles. Search rubygems.org, or local file tree.
 
-![A screenshot of your package](http://g.recordit.co/f4JIiXLjXN.gif)
+![A screenshot of your package](http://g.recordit.co/NkXOOmAFqH.gif)
